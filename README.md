@@ -30,5 +30,3 @@ CSS
 Author Links 
 
 [GitHub](https://github.com/hadisafari77) [Linkedin](https://www.linkedin.com/in/hadi-safari-649309141/)
-
-<hr>
